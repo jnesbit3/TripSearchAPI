@@ -1,0 +1,10 @@
+C:\Users\Jared.Nesbit\Downloads\HttpClientSample-master\HttpClientSample-master\src\HttpClientSample\bin\Debug\HttpClientSample.exe.config
+C:\Users\Jared.Nesbit\Downloads\HttpClientSample-master\HttpClientSample-master\src\HttpClientSample\bin\Debug\HttpClientSample.exe
+C:\Users\Jared.Nesbit\Downloads\HttpClientSample-master\HttpClientSample-master\src\HttpClientSample\bin\Debug\HttpClientSample.pdb
+C:\Users\Jared.Nesbit\Downloads\HttpClientSample-master\HttpClientSample-master\src\HttpClientSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jared.Nesbit\Downloads\HttpClientSample-master\HttpClientSample-master\src\HttpClientSample\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Jared.Nesbit\Downloads\HttpClientSample-master\HttpClientSample-master\src\HttpClientSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jared.Nesbit\Downloads\HttpClientSample-master\HttpClientSample-master\src\HttpClientSample\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Jared.Nesbit\Downloads\HttpClientSample-master\HttpClientSample-master\src\HttpClientSample\obj\Debug\HttpClientSample.csprojResolveAssemblyReference.cache
+C:\Users\Jared.Nesbit\Downloads\HttpClientSample-master\HttpClientSample-master\src\HttpClientSample\obj\Debug\HttpClientSample.exe
+C:\Users\Jared.Nesbit\Downloads\HttpClientSample-master\HttpClientSample-master\src\HttpClientSample\obj\Debug\HttpClientSample.pdb
